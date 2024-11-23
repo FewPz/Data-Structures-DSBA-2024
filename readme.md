@@ -1,4 +1,4 @@
-# Physical Computing
+# Data Structures and Algorithms 2/2024 (DSBA)
 
 ## ลิงก์ Github Document ของแต่ละสัปดาห์
 
@@ -6,8 +6,8 @@
 
 ## Resources
 
-- iJudge: https://ijudge.it.kmitl.ac.th/courses/28
+- &lt;i&gt;Judge: https://ijudge.it.kmitl.ac.th/courses/29
 
 ## เงื่อนไขในการทำแลป
 
-รหัสเข้าคอร์สใน eJudge: `...`
+รหัสเข้าคอร์สใน &lt;i&gt;Judge: **`#DSBALOVEDSA2024`**
