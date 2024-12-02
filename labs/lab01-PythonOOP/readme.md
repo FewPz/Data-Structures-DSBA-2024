@@ -2,9 +2,7 @@
 
 **06066301 วิชาโครงสร้างข้อมูลและอัลกอริทึม (Data Structures and Algorithms)**
 
-**Lab Documentation**
-
-[Link to slide (.pptx)](https://kmitlthailand.sharepoint.com/:p:/s/22567-ITDataStructuresandAlgorithms/EYTAfdFk63FPtg0bDpEH4zwB7zVpzDUalj2iUnLXYamacw?e=horVXX)
+[Link to slide (.pptx)](https://kmitlthailand.sharepoint.com/:p:/s/22567-ITDataStructuresandAlgorithms/EYTAfdFk63FPtg0bDpEH4zwB7zVpzDUaIj2iUnLXYamacw?e=eUO2RN)
 
 # Python Class
 
