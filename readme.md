@@ -6,11 +6,11 @@
 
 ## <i\>Judge
 
-**คอร์สวิชา Data Structure and Algorithm 2/2024 (IT)**
+**คอร์สวิชา Data Structure and Algorithm 2/2024 (DSBA)**
 
-* [https://ijudge.it.kmitl.ac.th/courses/28](https://ijudge.it.kmitl.ac.th/courses/28)
+* [https://ijudge.it.kmitl.ac.th/courses/29](https://ijudge.it.kmitl.ac.th/courses/29)
 
-**รหัสเข้าคอร์ส :**  `LoveLoveAJKimmy`
+**รหัสเข้าคอร์ส :**  `#DSBALOVEDSA2024`
 
 ## การทำแลปใน <i\>Judge
 
