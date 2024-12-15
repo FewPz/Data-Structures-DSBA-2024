@@ -3,6 +3,7 @@
 ## ลิงก์ Github Document ของแต่ละสัปดาห์
 
 - [Lab01: Python OOP](labs/lab01-PythonOOP)
+- [Lab02: Stack](labs/labs02-Stack)
 
 ## <i\>Judge
 
