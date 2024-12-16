@@ -4,6 +4,7 @@
 
 - [Lab01: Python OOP](labs/lab01-PythonOOP)
 - [Lab02: Stack](labs/labs02-Stack)
+- [Lab03: Singly Linked List](labs/lab03-Singly%20Linked%20List)
 
 ## <i\>Judge
 
@@ -26,3 +27,6 @@
     * สามารถส่งได้ทีละหลายข้อ
 * TA อาจจะมีการถามเรื่องโค้ด
 * ถ้าข้อไหนให้ใช้ class แต่ไม่ได้มีการใช้ class ภายในโค้ดจะถือว่าไม่ผ่าน
+
+
+[def]: labs/lab03-Singly%20Linked%20List
